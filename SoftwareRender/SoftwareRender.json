@@ -1,0 +1,14 @@
+{
+  "Author": "srkizer",
+  "Name": "SoftwareRender",
+  "Punchline": "Slow game is better than no game. Probably.",
+  "Description": "Use software renderer for the game.",
+  "InternalName": "softwarerender",
+  "ApplicableVersion": "any",
+  "LoadRequiredState": 2,
+  "LoadSync": true,
+  "RepoUrl": "https://github.com/Soreepeong/FFXIV-SoftwareRender",
+  "Tags": [
+    "softwarerenderer"
+  ]
+}
